@@ -7,11 +7,11 @@
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BkS_HnMS-wlPD_8OoeD0-97" target="BkS_HnMS-wlPD_8OoeD0-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BkS_HnMS-wlPD_8OoeD0-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BkS_HnMS-wlPD_8OoeD0-97" target="BkS_HnMS-wlPD_8OoeD0-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-97" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="70" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BkS_HnMS-wlPD_8OoeD0-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BkS_HnMS-wlPD_8OoeD0-101" target="BkS_HnMS-wlPD_8OoeD0-97">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-101" value="订单信息处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="120" width="110" height="50" as="geometry" />
