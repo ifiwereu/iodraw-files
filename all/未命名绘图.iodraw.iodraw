@@ -25,7 +25,7 @@
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-61" value="邻域搜索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="175" y="2682" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BkS_HnMS-wlPD_8OoeD0-62" value="邻域解改进？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="BkS_HnMS-wlPD_8OoeD0-62" value="邻域解改进" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="165" y="2781" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-63" value="更新当前解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
