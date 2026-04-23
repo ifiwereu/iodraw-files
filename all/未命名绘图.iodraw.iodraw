@@ -96,8 +96,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BkS_HnMS-wlPD_8OoeD0-148" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="680" width="130" height="80" as="geometry" />
+        <mxCell id="BkS_HnMS-wlPD_8OoeD0-148" value="是否运营结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="680" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
