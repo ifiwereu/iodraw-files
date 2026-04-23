@@ -10,11 +10,14 @@
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-101" value="订单信息处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="120" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BkS_HnMS-wlPD_8OoeD0-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BkS_HnMS-wlPD_8OoeD0-103" target="BkS_HnMS-wlPD_8OoeD0-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-103" value="是否存在有效解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-104" value="贪婪插入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="250" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
