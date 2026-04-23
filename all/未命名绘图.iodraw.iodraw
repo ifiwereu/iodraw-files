@@ -17,10 +17,10 @@
           <mxGeometry x="190" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-104" value="贪婪插入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-106" value="是否有未分配请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="310" width="105" height="30" as="geometry" />
+          <mxGeometry x="195" y="320" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
