@@ -127,8 +127,8 @@
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-157" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BkS_HnMS-wlPD_8OoeD0-158" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="110" height="70" as="geometry" />
+        <mxCell id="BkS_HnMS-wlPD_8OoeD0-158" value="订单新增" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="325" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
