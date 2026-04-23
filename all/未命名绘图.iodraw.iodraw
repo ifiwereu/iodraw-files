@@ -7,7 +7,7 @@
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-97" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BkS_HnMS-wlPD_8OoeD0-101" value="加载实例数据和初始化参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BkS_HnMS-wlPD_8OoeD0-101" value="订单信息处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
