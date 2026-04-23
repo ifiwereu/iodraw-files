@@ -75,6 +75,9 @@
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-136" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="530" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BkS_HnMS-wlPD_8OoeD0-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BkS_HnMS-wlPD_8OoeD0-137" target="BkS_HnMS-wlPD_8OoeD0-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-137" value="最终分配" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="670" width="100" height="50" as="geometry" />
         </mxCell>
