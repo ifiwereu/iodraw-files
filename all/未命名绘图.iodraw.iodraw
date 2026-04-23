@@ -114,7 +114,7 @@
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-153" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="670" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BkS_HnMS-wlPD_8OoeD0-156" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="BkS_HnMS-wlPD_8OoeD0-150">
+        <mxCell id="BkS_HnMS-wlPD_8OoeD0-156" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BkS_HnMS-wlPD_8OoeD0-148" target="BkS_HnMS-wlPD_8OoeD0-150">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="650" as="sourcePoint" />
             <mxPoint x="570" y="500" as="targetPoint" />
