@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-117" value="初始化VNS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="192.5" y="384" width="117.5" height="30" as="geometry" />
+          <mxGeometry x="192.5" y="384" width="127.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-122" value="扰动操作" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="198.75" y="480" width="105" height="50" as="geometry" />
@@ -138,7 +138,7 @@
           <mxGeometry x="490" y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PSirAVvw_IigGw_ykMoP-1" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="500" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
