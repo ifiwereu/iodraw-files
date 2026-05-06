@@ -133,14 +133,10 @@
         <mxCell id="9qmpySgrA_hUu1J1l0vI-1" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9qmpySgrA_hUu1J1l0vI-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="9qmpySgrA_hUu1J1l0vI-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="630" as="sourcePoint" />
             <mxPoint x="370" y="580" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="630" />
-              <mxPoint x="320" y="580" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
