@@ -54,8 +54,7 @@
               <mxPoint x="400" y="630" />
               <mxPoint x="400" y="650" />
               <mxPoint x="260" y="650" />
-              <mxPoint x="260" y="670" />
-              <mxPoint x="252" y="670" />
+              <mxPoint x="260" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -76,16 +75,16 @@
         </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-144" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="208.7499999999992" y="700" as="sourcePoint" />
-            <mxPoint x="200" y="505" as="targetPoint" />
+            <mxPoint x="208.7499999999992" y="707.5" as="sourcePoint" />
+            <mxPoint x="200" y="512.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="700" />
-              <mxPoint x="150" y="630" />
-              <mxPoint x="150" y="610" />
-              <mxPoint x="150" y="600" />
-              <mxPoint x="150" y="520" />
-              <mxPoint x="160" y="510" />
-              <mxPoint x="170" y="505" />
+              <mxPoint x="150" y="707.5" />
+              <mxPoint x="150" y="637.5" />
+              <mxPoint x="150" y="617.5" />
+              <mxPoint x="150" y="607.5" />
+              <mxPoint x="150" y="527.5" />
+              <mxPoint x="160" y="517.5" />
+              <mxPoint x="170" y="512.5" />
             </Array>
           </mxGeometry>
         </mxCell>
