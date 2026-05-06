@@ -30,6 +30,9 @@
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-122" value="扰动操作" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="198.75" y="480" width="105" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9qmpySgrA_hUu1J1l0vI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BkS_HnMS-wlPD_8OoeD0-125" target="BkS_HnMS-wlPD_8OoeD0-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BkS_HnMS-wlPD_8OoeD0-125" value="邻域操作" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="208.75" y="592.5" width="95" height="40" as="geometry" />
         </mxCell>
