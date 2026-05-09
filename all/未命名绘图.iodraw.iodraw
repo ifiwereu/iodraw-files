@@ -1,0 +1,53 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="OmipPZ8hIfKwk530lDWk">
+    <mxGraphModel dx="537" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="18iX42eQy2Wy5txHd9cg-1" value="车辆路径问题 VRP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="29" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18iX42eQy2Wy5txHd9cg-2" value="带时间窗取送货问题 PDPTW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="258" y="29" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18iX42eQy2Wy5txHd9cg-3" value="叫车接送问题 DARP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="569" y="29" width="198" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18iX42eQy2Wy5txHd9cg-4" value="动态DARP问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="817" y="29" width="162" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18iX42eQy2Wy5txHd9cg-5" value="需求响应式公交车辆调度问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="20" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="18iX42eQy2Wy5txHd9cg-6" value="基于变邻域搜索的元启发式算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1452" y="20" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="18iX42eQy2Wy5txHd9cg-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="18iX42eQy2Wy5txHd9cg-1" target="18iX42eQy2Wy5txHd9cg-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18iX42eQy2Wy5txHd9cg-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="18iX42eQy2Wy5txHd9cg-2" target="18iX42eQy2Wy5txHd9cg-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18iX42eQy2Wy5txHd9cg-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="18iX42eQy2Wy5txHd9cg-3" target="18iX42eQy2Wy5txHd9cg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18iX42eQy2Wy5txHd9cg-10" value="应用于" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="18iX42eQy2Wy5txHd9cg-4" target="18iX42eQy2Wy5txHd9cg-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18iX42eQy2Wy5txHd9cg-11" value="求解方法" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="18iX42eQy2Wy5txHd9cg-5" target="18iX42eQy2Wy5txHd9cg-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
