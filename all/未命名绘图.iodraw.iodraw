@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="18iX42eQy2Wy5txHd9cg-14" value="考虑时间窗" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="90" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
