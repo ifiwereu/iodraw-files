@@ -45,9 +45,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="18iX42eQy2Wy5txHd9cg-11" value="求解方法" style="curved=1;startArrow=none;endArrow=block;exitX=0.396;exitY=0.045;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="18iX42eQy2Wy5txHd9cg-5">
-          <mxGeometry x="1" relative="1" as="geometry">
+          <mxGeometry x="-0.1117" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="510" y="100" as="targetPoint" />
+            <mxPoint x="510" y="80" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
