@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OmipPZ8hIfKwk530lDWk">
-    <mxGraphModel dx="625" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="363" dy="188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,10 +44,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="18iX42eQy2Wy5txHd9cg-11" value="求解方法" style="curved=1;startArrow=none;endArrow=block;exitX=0.396;exitY=0.045;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.397;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18iX42eQy2Wy5txHd9cg-5" target="18iX42eQy2Wy5txHd9cg-6">
+        <mxCell id="18iX42eQy2Wy5txHd9cg-11" value="求解方法" style="curved=1;startArrow=none;endArrow=block;exitX=0.396;exitY=0.002;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="18iX42eQy2Wy5txHd9cg-5">
           <mxGeometry x="-0.1117" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="510" y="80" as="targetPoint" />
+            <mxPoint x="509" y="75" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
