@@ -195,6 +195,9 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-123" value="用户隐性反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="835" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-126" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="735" width="100" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
