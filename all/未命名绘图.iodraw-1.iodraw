@@ -10,11 +10,11 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据输入层&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;从车联网获取用户画像&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="400" width="151" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;从车联网获取用户画像&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="150" width="151" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
