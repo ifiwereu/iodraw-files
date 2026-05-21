@@ -118,19 +118,19 @@
           <mxGeometry x="210" y="680" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-86" value="车辆外部安全状况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="660" width="115.5" height="30" as="geometry" />
+          <mxGeometry x="330" y="660" width="115.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-87" value="车辆自身行驶状况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="660" width="100" height="30" as="geometry" />
+          <mxGeometry x="450.5" y="660" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-88" value="用户自身状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="660" width="90" height="30" as="geometry" />
+          <mxGeometry x="560" y="660" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="224.88" y="850" width="440" height="160" as="geometry" />
+          <mxGeometry x="224.87" y="830" width="440" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-91" value="生成式的内容是否带有强烈的情绪倾向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="715" width="166" height="40" as="geometry" />
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-91" value="生成式的内容是否带有强烈的情绪倾向、是否合规" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.25" y="715" width="166" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
