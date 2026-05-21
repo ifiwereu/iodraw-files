@@ -129,8 +129,8 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="224.88" y="850" width="440" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-91" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-91" value="生成式的内容是否带有强烈的情绪倾向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="730" width="166" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
