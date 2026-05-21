@@ -189,7 +189,7 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-118" value="调整用户偏好" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="770" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-119" value="根据用户需求迭代或重新生成内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-119" value="根据用户需求迭代或给出新的推荐内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="680" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
