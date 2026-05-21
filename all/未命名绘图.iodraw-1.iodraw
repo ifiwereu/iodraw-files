@@ -67,7 +67,7 @@
           <mxGeometry x="220" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-40" value="最终推荐给用户的策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="345" width="130" height="60" as="geometry" />
+          <mxGeometry x="550" y="345" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="60" height="40" as="geometry" />
@@ -80,6 +80,12 @@
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-61" value="人机交互推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="349" y="410" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="LzqSIh39t-L7vNtC7MHE-66" target="LzqSIh39t-L7vNtC7MHE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-66" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
