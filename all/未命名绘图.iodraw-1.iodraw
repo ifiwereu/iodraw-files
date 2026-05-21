@@ -130,7 +130,7 @@
           <mxGeometry x="560" y="660" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="209.75" y="820" width="470" height="240" as="geometry" />
+          <mxGeometry x="209.75" y="820" width="470" height="260" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-91" value="生成式的内容是否带有强烈的情绪倾向、是否合规" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="332.25" y="715" width="166" height="40" as="geometry" />
@@ -169,7 +169,7 @@
           <mxGeometry x="20" y="330" width="150" height="605" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-108" value="用户接收信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1000" width="220" height="40" as="geometry" />
+          <mxGeometry x="330" y="1010" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
