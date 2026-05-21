@@ -76,7 +76,7 @@
           <mxGeometry x="210" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-59" value="云端大模型" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="495" width="70" height="40" as="geometry" />
+          <mxGeometry x="215" y="495" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-60" value="特定环境触发推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345.5" y="385" width="111" height="30" as="geometry" />
