@@ -93,6 +93,9 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-69" value="高度个性化及生成式内容" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="353" y="460" width="121" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzqSIh39t-L7vNtC7MHE-70" target="LzqSIh39t-L7vNtC7MHE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-70" value="长链条行程推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="353" y="500" width="127" height="30" as="geometry" />
         </mxCell>
@@ -100,7 +103,7 @@
           <mxGeometry x="368" y="540" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-79" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="495" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
