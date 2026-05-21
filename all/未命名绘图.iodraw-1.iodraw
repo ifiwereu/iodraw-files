@@ -88,7 +88,10 @@
           <mxGeometry x="340.5" y="450" width="151" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-69" value="高度个性化及生成式内容" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="349" y="460" width="121" height="30" as="geometry" />
+          <mxGeometry x="353" y="460" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-70" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
