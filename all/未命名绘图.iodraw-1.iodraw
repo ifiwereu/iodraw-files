@@ -54,8 +54,8 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="318.13" width="100" height="43.75" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-21" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="420" width="60" height="30" as="geometry" />
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-21" value="云端部署" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="496.5" y="320" width="73.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
