@@ -141,8 +141,8 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-95" value="次要优先级信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="880" width="94.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-96" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="830" width="60" height="30" as="geometry" />
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-96" value="低优先级信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="920" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
