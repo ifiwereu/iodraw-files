@@ -23,10 +23,10 @@
           <mxGeometry x="345.5" y="125" width="159.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340.5" y="170" width="169.5" height="40" as="geometry" />
+          <mxGeometry x="340.5" y="170" width="209.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;摄像头、麦克风接收用户指令&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="309" y="250" width="210" height="30" as="geometry" />
+          <mxGeometry x="340.5" y="175" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
