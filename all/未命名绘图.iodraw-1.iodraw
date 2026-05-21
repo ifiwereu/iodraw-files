@@ -14,7 +14,7 @@
           <mxGeometry x="340" y="65" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;从车联网获取用户画像&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="349.5" y="70" width="151" height="30" as="geometry" />
+          <mxGeometry x="345.5" y="70" width="151" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340.5" y="120" width="169.5" height="40" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="340.5" y="170" width="209.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;摄像头、麦克风接收用户指令&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="170" width="210" height="50" as="geometry" />
+          <mxGeometry x="340.5" y="165" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
