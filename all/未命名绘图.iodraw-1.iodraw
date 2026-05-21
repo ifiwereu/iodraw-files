@@ -159,11 +159,12 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-102" value="仅在停车时通过车载屏幕推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="920" width="216" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzqSIh39t-L7vNtC7MHE-104" target="LzqSIh39t-L7vNtC7MHE-31">
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="600" as="targetPoint" />
+            <mxPoint x="200" y="465" as="targetPoint" />
+            <mxPoint x="15.000000000000455" y="705" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="15" y="420" />
+              <mxPoint x="15" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
