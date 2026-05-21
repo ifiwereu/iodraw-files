@@ -181,16 +181,10 @@
           <mxGeometry x="140" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-116" value="反馈与迭代模块" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="690" width="20" height="150" as="geometry" />
+          <mxGeometry x="-70" y="690" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-117" value="收集用户反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="820" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-118" value="调整用户偏好" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="770" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-119" value="根据用户需求迭代或给出新的推荐内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="700" width="90" height="50" as="geometry" />
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-122" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
