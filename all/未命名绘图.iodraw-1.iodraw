@@ -187,10 +187,10 @@
           <mxGeometry x="50" y="820" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-118" value="调整用户偏好" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="700" width="30" height="100" as="geometry" />
+          <mxGeometry x="50" y="770" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-119" value="根据用户需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="580" width="30" height="100" as="geometry" />
+          <mxGeometry x="70" y="640" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
