@@ -171,9 +171,6 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-108" value="用户接收信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1000" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-110" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="830" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
