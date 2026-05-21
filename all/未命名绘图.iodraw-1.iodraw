@@ -90,8 +90,8 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-69" value="高度个性化及生成式内容" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="353" y="460" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-70" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="410" width="30" height="30" as="geometry" />
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-70" value="长链条行程推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="500" width="127" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
