@@ -42,14 +42,17 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="490" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzqSIh39t-L7vNtC7MHE-32" target="LzqSIh39t-L7vNtC7MHE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="310" width="149.5" height="110" as="geometry" />
+          <mxGeometry x="339" y="310" width="149.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-33" value="基于用户近期兴趣推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="349" y="320" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-34" value="基于用户长期兴趣推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="351" y="350" width="140" height="30" as="geometry" />
+          <mxGeometry x="345.5" y="350" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-36" value="基于用户行为进行推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345.5" y="380" width="140" height="30" as="geometry" />
