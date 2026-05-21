@@ -51,9 +51,6 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-34" value="基于用户长期兴趣推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="360" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-35" value="热门默认推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="400" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
