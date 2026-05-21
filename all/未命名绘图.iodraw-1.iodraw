@@ -19,8 +19,8 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340.5" y="120" width="169.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-9" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-9" value="CAN总线获取车辆状态" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
