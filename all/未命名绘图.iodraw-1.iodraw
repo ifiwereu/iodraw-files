@@ -159,8 +159,8 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-101" value="以询问语气进行播报、驻车时弹出内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="421" y="880" width="219" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-102" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-102" value="仅在停车时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="920" width="216" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
