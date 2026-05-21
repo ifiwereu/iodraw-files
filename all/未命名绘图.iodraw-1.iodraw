@@ -39,32 +39,11 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;雷达感知车辆外部信息&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="75" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="510" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-17" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;推荐引擎层&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="325" width="20" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="296" y="320.62" width="98" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="496.5" y="320.62" width="100" height="43.75" as="geometry" />
-        </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;云端部署&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="322.5" width="73.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="390" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-27" value="混合策略" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="400" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="390" width="83" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-29" value="大模型" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="516.5" y="400" width="60" height="30" as="geometry" />
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
