@@ -43,7 +43,7 @@
           <mxGeometry x="190" y="290" width="490" height="280" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="310" width="151" height="170" as="geometry" />
+          <mxGeometry x="339" y="310" width="151" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-33" value="基于用户近期兴趣推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="349" y="310" width="130" height="30" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry x="345.5" y="390" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-61" value="人机交互推荐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="81" height="30" as="geometry" />
+          <mxGeometry x="349" y="415" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
