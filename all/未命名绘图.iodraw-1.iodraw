@@ -111,6 +111,9 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-82" value="最终推荐给用户的策略" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570.25" y="505" width="99.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzqSIh39t-L7vNtC7MHE-83" target="LzqSIh39t-L7vNtC7MHE-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209.75" y="640" width="470.25" height="160" as="geometry" />
         </mxCell>
