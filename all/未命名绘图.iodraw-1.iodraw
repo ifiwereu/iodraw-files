@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Orb8KLOjlsJZiz7daEQo">
-    <mxGraphModel dx="2231" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1077" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,7 +135,7 @@
         <mxCell id="LzqSIh39t-L7vNtC7MHE-91" value="生成式的内容是否带有强烈的情绪倾向、是否合规" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="332.25" y="715" width="166" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzqSIh39t-L7vNtC7MHE-93" value="输出与交互" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LzqSIh39t-L7vNtC7MHE-93" value="输出层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="880" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzqSIh39t-L7vNtC7MHE-97" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
